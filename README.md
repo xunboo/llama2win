@@ -12,6 +12,10 @@ Run exe @ AMD Ryzen 7 PRO 5850U
  Once upon a time, there was a clever cat named Mittens. Mittens loved to play with yarn and chase mice. One day, Mittens met a sly dog named Max. Max asked Mittens where he got the yarn. Mittens replied, "I found it on the floor!"
 Max was not happy with Mittens' answer. He wanted to take the yarn back, but Mittens didn't want to give it back. They started to argue
 
+Without OPENMP support:
 achieved tok/s: 82.421120
 
+
+With OPENMP support:
+achieved tok/s: 91.855041
 
