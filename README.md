@@ -17,6 +17,5 @@ achieved tok/s: 82.421120
 
 
 With OPENMP support:
-
 achieved tok/s: 91.855041
 
